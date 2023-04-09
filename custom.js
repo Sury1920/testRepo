@@ -4,4 +4,5 @@ function test(arg) {
 
 function test2(arg) {
     console.log(arg);
+    console.log(arg);
 }
